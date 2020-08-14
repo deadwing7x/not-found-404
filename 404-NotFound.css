@@ -1,0 +1,141 @@
+@media screen and (max-width: 500px) {
+    #notFound {
+        position: absolute;
+        top: 20px;
+        font-family: Inconsolata;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 40px;
+        color: #333333;
+    }
+    #scareCrow {
+        height: 550px;
+        width: 550px;
+        padding-top: 100px;
+    }
+    .scareCrow-sm-404 {
+        text-align: center;
+    }
+    .not-found-text {
+        padding-top: 50px;
+        padding-left: 12px;
+        width: 800px;
+    }
+    #not-found-sm {
+        font-family: Space Mono;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 65px;
+        letter-spacing: -0.035em;
+        /* Gray 1 */
+        color: #333333;
+    }
+    .text-404 {
+        padding-top: 20px;
+        padding-left: 12px;
+        width: 700px;
+    }
+    #sm-404 {
+        font-family: Space Mono;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 25px;
+        letter-spacing: -0.035em;
+        /* Gray 2 */
+        color: #4F4F4F;
+    }
+    .back-div {
+        padding-top: 45px;
+        padding-left: 12px;
+    }
+    #backButton {
+        background: #333333;
+        height: 100px;
+        width: 350px;
+        font-family: Space Mono;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 25px;
+        letter-spacing: -0.035em;
+        color: #FFFFFF;
+    }
+    .footer {
+        text-align: center;
+        padding-top: 50px;
+        width: 740px;
+        font-family: Space Mono;
+        font-size: 20px;
+    }
+}
+
+@media screen and (max-width: 1920px) and (min-width: 500px) {
+    #notFound {
+        position: absolute;
+        padding-top: 20px;
+        font-family: Inconsolata;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 25px;
+        color: #333333;
+    }
+    #scareCrow {
+        height: 580px;
+        width: 580px;
+        padding-top: 90px;
+        padding-left: 20px;
+    }
+    .scareCrow-sm-404 {
+        text-align: left;
+    }
+    .not-found-text {
+        text-align: left;
+        margin-top: -440px;
+        padding-left: 780px;
+        padding-right: 200px;
+    }
+    #not-found-sm {
+        font-family: Space Mono;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 55px;
+        letter-spacing: -0.035em;
+        /* Gray 1 */
+        color: #333333;
+    }
+    .text-404 {
+        padding-top: 30px;
+        padding-left: 780px;
+        padding-right: 240px;
+    }
+    #sm-404 {
+        font-family: Space Mono;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 30px;
+        letter-spacing: -0.035em;
+        /* Gray 2 */
+        color: #4F4F4F;
+    }
+    .back-div {
+        padding-top: 60px;
+        padding-left: 780px;
+        padding-right: 240px;
+    }
+    #backButton {
+        background: #333333;
+        height: 90px;
+        width: 280px;
+        font-family: Space Mono;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 25px;
+        letter-spacing: -0.035em;
+        color: #FFFFFF;
+    }
+    .footer {
+        padding-top: 40px;
+        text-align: center;
+        font-family: Space Mono;
+        font-size: 20px;
+    }
+}
